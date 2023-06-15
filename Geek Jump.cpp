@@ -55,6 +55,7 @@ class Solution {
 
     // bottom up approach 
     // means bottom up mai akri vale ko pkdkr kr phele vale pr pauchte
+    // n-t to 0 tk
     
     // int general_steps1and2(int index,vector<int>&dp,vector<int>&height)
     // {
